@@ -14,6 +14,8 @@ I'm taking some courses about Cyber Security, and i'm really enjoying them.
 </ul>
 📢 Contacts:
 <ul>
+  <li></li>
+  <li>cocbilla01@gmail.com</li>
 </ul>
 👦 About me:
 <ul>
